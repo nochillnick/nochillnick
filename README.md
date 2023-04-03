@@ -1,12 +1,15 @@
-Hi there, I'm Nicholas Robin Omondi Fwaya. Yeah, I get it, that's why I prefer Nick Fwaya.
-I am a Computer Science undergrad from Kenya who loves building the web.
-- 🔭 I’m well versed in javascript, react(nextjs) and python(for data structures and algorithms).
-- 🌱 I’m currently learning typescript, node, postgresql, sveltekit, astro and flutter. I know, it's a lot.
-- 👯 I’m looking to collaborate on web and mobile projects involving the above mentioned technologies.
-- 🤔 I’m looking for new opportunities in the web space and I'm open to both internships and full time rolls.
-- 💬 Ask me about anything tech or reach out on my socials.
-- 📫 How to reach me: email - nickfwaya@gmail.com, linkedin - Nick Fwaya, twitter - @nochillnick404 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love stand up comedy. 
-- 👋 Just a partying shot: What did the router say to the two laptops that were arguing? Guys, guys! wi-fi.
-- 💻 Happy coding!
+👋 Hi, I'm Nicholas Robin Omondi Fwaya. Yeah, I get it, that's why I prefer Nick Fwaya!
+
+🚀 I'm a passionate computer science graduate who's well-versed in modern full stack web development using TypeScript, React, Next.js, and Node.js. With experience in building dynamic, performant, and user-friendly web applications, I'm excited to bring my skills to your team and tackle new challenges.
+
+🌱 I’m currently learning trpc, zod, prisma, sveltekit, react native, dart and flutter. I know, all about the grind.
+
+👨‍💻 I love to write clean, well-documented, and maintainable code. My skills range from creating responsive and accessible user interfaces to designing and building scalable backend systems.
+
+👨‍🎓 During my time at Kisii University, I gained extensive experience in software engineering, data structures, algorithms, and databases. I'm always eager to learn and stay up-to-date with the latest trends in technology.
+
+🔎 I'm currently seeking new opportunities to grow and contribute to a dynamic team that values innovation, collaboration, and diversity.
+
+📫 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/nick-fwaya-546421247/) or check out my [portfolio](https://nickfwaya.com/) to see some of my recent projects. Ask me about anything on [twitter](https://twitter.com/_nochillnick/)
+
+💻 Happy coding!
