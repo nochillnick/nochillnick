@@ -10,6 +10,6 @@
 
 🔎 I'm currently seeking new opportunities to grow and contribute to a dynamic team that values innovation, collaboration, and diversity.
 
-📫 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/nick-fwaya-546421247/) or check out my [portfolio](https://nickfwaya.com/) to see some of my recent projects. Ask me about anything on [twitter](https://twitter.com/_nochillnick/)
+📫 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/nick-fwaya-546421247/) or check out my [Portfolio](https://nickfwaya.com/) to see some of my recent projects. Reach out on [Twitter](https://twitter.com/_nochillnick/)
 
 💻 Happy coding!
